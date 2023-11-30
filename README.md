@@ -65,7 +65,7 @@
 #### Ответ на задание 4.
 
 Скриншот поступающих логов nginx через filebeat:
-![filebeat](img/zadanie4/)
+![filebeat](img/zadanie4/04_01.png)
 
 ---
 
